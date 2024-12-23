@@ -1,2 +1,2 @@
 # sources
-Mes sources sur https://moeztechcorner.com
+Mes sources sur https://moeztechcorner.wordpress.com
