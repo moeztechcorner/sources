@@ -76,7 +76,6 @@ end;
 
 procedure TMain.BaseForm4Click(Sender: TObject);
 begin
-  // Ceci est un exemple
   with TDerivedForm.Create(Self, TDerivedParams.Create('B4-Param1', 'B4-Param2', 'B4-Param3', False, False, True, 'BaseForm4', 'B4-Memo')) do
     try
       ShowModal;
